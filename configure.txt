@@ -1,0 +1,6 @@
+STAR_REF	/Users/kingdavid/Desktop/stanford/stem_transplant_GB/RNA_seq/human_GRCh38
+FASTQ_DIR	/Users/kingdavid/Desktop/stanford/stem_transplant_GB/RNA_seq/data
+PICARD	/Users/kingdavid/Desktop/stanford/stem_transplant_GB/RNA_seq/software/picard/picard/build/libs/picard.jar
+HTseq	/Users/kingdavid/anaconda3/bin/htseq-count
+STAR	/Users/kingdavid/bin/STAR
+GTF	/Users/kingdavid/Desktop/stanford/stem_transplant_GB/RNA_seq/ref/Homo_sapiens.GRCh38.106.gtf
